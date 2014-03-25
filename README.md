@@ -1,3 +1,7 @@
+android_weekly_scheduler
+========================
+
+A sample of a weekly scheduler in Android
 
 ![Alt text](https://raw.github.com/paulononaka/android_weekly_scheduler/master/sample/sample1.jpg "Screenshot 1")
 
